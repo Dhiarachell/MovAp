@@ -1,0 +1,2 @@
+rootProject.name = "MovAp"
+include ':app'
